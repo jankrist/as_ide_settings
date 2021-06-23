@@ -1,0 +1,7 @@
+<templateSet group="Inject commons">
+  <template name="injeer" value="@Inject lateinit var errorDialogController: ErrorDialogController" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
