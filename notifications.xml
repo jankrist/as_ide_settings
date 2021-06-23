@@ -1,0 +1,13 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Build sync orphan modules" displayType="NONE" shouldLog="false" />
+    <notification groupId="Configure Kotlin in Project" />
+    <notification groupId="Execution" />
+    <notification groupId="Framework Detection" displayType="STICKY_BALLOON" />
+    <notification groupId="Gradle Build (Balloon)" displayType="NONE" />
+    <notification groupId="Gradle Notification Group" displayType="NONE" shouldLog="false" />
+    <notification groupId="Gradle sync" />
+    <notification groupId="Grape" displayType="NONE" />
+    <notification groupId="Indexing" />
+  </component>
+</application>
