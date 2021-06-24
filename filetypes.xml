@@ -1,11 +1,13 @@
 <application>
-  <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*_Factory.java;*_MembersInjector.java;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*_Factory.java;*_MembersInjector.java;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
+      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
   </component>
 </application>
