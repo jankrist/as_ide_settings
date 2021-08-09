@@ -13,6 +13,8 @@
     <mask>*.properties</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.sh</mask>
     <mask>*.kt</mask>
+    <mask>*.json</mask>
   </component>
 </application>
