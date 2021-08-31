@@ -7,11 +7,13 @@
         <entry key="..\:/Projects/MBA/core/src/main/res/drawable-nodpi-v29/icon__fingerprint_navigation.xml" value="0.1" />
         <entry key="..\:/Projects/MBA/core/src/main/res/drawable-nodpi/icon__biometrics.xml" value="0.1" />
         <entry key="..\:/Projects/MBA/core/src/main/res/drawable-nodpi/icon__biometrics_navigation.xml" value="0.1" />
+        <entry key="..\:/Projects/MBA/core/src/main/res/drawable-nodpi/icon__biometrics_oval.xml" value="0.16666666666666666" />
         <entry key="..\:/Projects/MBA/core/src/main/res/drawable-nodpi/icon__calculator.xml" value="0.1" />
-        <entry key="..\:/Projects/MBA/core/src/main/res/drawable-nodpi/icon__face_unlock.xml" value="0.1" />
+        <entry key="..\:/Projects/MBA/core/src/main/res/drawable-nodpi/icon__face_unlock.xml" value="0.16666666666666666" />
         <entry key="..\:/Projects/MBA/core/src/main/res/drawable-nodpi/icon__face_unlock_navigation.xml" value="0.1" />
         <entry key="..\:/Projects/MBA/core/src/main/res/drawable-nodpi/icon__fingerprint.xml" value="0.1" />
         <entry key="..\:/Projects/MBA/core/src/main/res/drawable-nodpi/icon__fingerprint_navigation.xml" value="0.1" />
+        <entry key="..\:/Projects/MBA/core/src/main/res/drawable/icon__face_unlock_oval.xml" value="0.16666666666666666" />
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/aggregate_connection__aggregatable_bank_list_info_item.xml" value="0.24583333333333332" />
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/aggregate_connection__aggregatable_bank_list_item.xml" value="0.3640625" />
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/aggregate_connection__aggregated_banks_overview_fragment.xml" value="0.3640625" />
