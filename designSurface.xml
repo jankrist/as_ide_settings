@@ -2,6 +2,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Projects/MBA/app-business-cz/src/main/res/drawable/gfx__splash_screen.xml" value="0.16111111111111112" />
+        <entry key="..\:/Projects/MBA/app-business-sk/src/main/res/drawable/gfx__splash_screen.xml" value="0.21296296296296297" />
+        <entry key="..\:/Projects/MBA/app-individual/src/main/res/drawable/gfx__splash_screen.xml" value="0.21296296296296297" />
         <entry key="..\:/Projects/MBA/app-individual/src/main/res/layout/credit_card__data_fragment.xml" value="0.3640625" />
         <entry key="..\:/Projects/MBA/app-individual/src/main/res/layout/fund_contract__contact_address_fragment.xml" value="0.3640625" />
         <entry key="..\:/Projects/MBA/app-individual/src/main/res/layout/fund_contract__postal_address_fragment.xml" value="0.3640625" />
