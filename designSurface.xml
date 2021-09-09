@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Projects/MBA/app-business-cz/src/main/res/drawable/gfx__splash_app_icon.xml" value="0.22" />
+        <entry key="..\:/Projects/MBA/app-business-cz/src/main/res/drawable/gfx__splash_app_icon.xml" value="0.2833333333333333" />
         <entry key="..\:/Projects/MBA/app-business-cz/src/main/res/drawable/gfx__splash_screen.xml" value="0.16111111111111112" />
         <entry key="..\:/Projects/MBA/app-business-cz/src/main/res/drawable/ic_appikona_skb_kruh.xml" value="0.21851851851851853" />
         <entry key="..\:/Projects/MBA/app-business-cz/src/main/res/layout/authorization__business_sign_in_fragment.xml" value="0.1" />
@@ -10,6 +10,7 @@
         <entry key="..\:/Projects/MBA/app-business-sk/src/main/res/drawable/gfx__splash_screen.xml" value="0.21296296296296297" />
         <entry key="..\:/Projects/MBA/app-individual/src/main/res/drawable/gfx__splash_app_icon.xml" value="0.37333333333333335" />
         <entry key="..\:/Projects/MBA/app-individual/src/main/res/drawable/gfx__splash_screen.xml" value="0.21296296296296297" />
+        <entry key="..\:/Projects/MBA/app-individual/src/main/res/drawable/ic_appikona_ind_kruh.xml" value="0.21388888888888888" />
         <entry key="..\:/Projects/MBA/app-individual/src/main/res/layout/credit_card__data_fragment.xml" value="0.3640625" />
         <entry key="..\:/Projects/MBA/app-individual/src/main/res/layout/fund_contract__contact_address_fragment.xml" value="0.3640625" />
         <entry key="..\:/Projects/MBA/app-individual/src/main/res/layout/fund_contract__postal_address_fragment.xml" value="0.3640625" />
@@ -27,6 +28,7 @@
         <entry key="..\:/Projects/MBA/core/src/main/res/drawable-nodpi/icon__fingerprint_navigation.xml" value="0.1" />
         <entry key="..\:/Projects/MBA/core/src/main/res/drawable/ic_appikona_bus_kruh.xml" value="0.35648148148148145" />
         <entry key="..\:/Projects/MBA/core/src/main/res/drawable/ic_appikona_ind_kruh.xml" value="0.5" />
+        <entry key="..\:/Projects/MBA/core/src/main/res/drawable/ic_appikona_skb_kruh.xml" value="0.21388888888888888" />
         <entry key="..\:/Projects/MBA/core/src/main/res/drawable/icon__face_unlock_oval.xml" value="0.16666666666666666" />
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/aggregate_connection__aggregatable_bank_list_info_item.xml" value="0.24583333333333332" />
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/aggregate_connection__aggregatable_bank_list_item.xml" value="0.3640625" />
