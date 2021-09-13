@@ -39,6 +39,8 @@
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/exchange_rates__exchange_rate_list_item.xml" value="0.3640625" />
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/fingerprint__settings_fragment.xml" value="0.20833333333333334" />
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/keyboard__keyboard_changed_warning_dialog_fragment.xml" value="0.75" />
+        <entry key="..\:/Projects/MBA/core/src/main/res/layout/payees__domestic_template_read_only_detail_fragment.xml" value="0.1" />
+        <entry key="..\:/Projects/MBA/core/src/main/res/layout/payees__domestic_template_read_only_page_fragment.xml" value="0.1" />
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/payees__templates_tab.xml" value="0.3640625" />
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/push_notifications__verification_result_fragment.xml" value="0.1" />
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/shared__account_info_header_view.xml" value="0.3640625" />
