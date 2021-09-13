@@ -12,6 +12,7 @@
         <entry key="..\:/Projects/MBA/app-individual/src/main/res/drawable/gfx__splash_screen.xml" value="0.21296296296296297" />
         <entry key="..\:/Projects/MBA/app-individual/src/main/res/drawable/ic_appikona_ind_kruh.xml" value="0.21388888888888888" />
         <entry key="..\:/Projects/MBA/app-individual/src/main/res/layout/credit_card__data_fragment.xml" value="0.3640625" />
+        <entry key="..\:/Projects/MBA/app-individual/src/main/res/layout/fund__current_fund_overview_fragment.xml" value="0.3880208333333333" />
         <entry key="..\:/Projects/MBA/app-individual/src/main/res/layout/fund_contract__contact_address_fragment.xml" value="0.3640625" />
         <entry key="..\:/Projects/MBA/app-individual/src/main/res/layout/fund_contract__postal_address_fragment.xml" value="0.3640625" />
         <entry key="..\:/Projects/MBA/app-individual/src/main/res/layout/new_product__saving_account_bonus_offer_fragment.xml" value="0.1" />
@@ -35,7 +36,9 @@
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/aggregate_connection__aggregatable_bank_list_item.xml" value="0.3640625" />
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/aggregate_connection__aggregated_banks_overview_fragment.xml" value="0.3640625" />
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/authorization__app_bar_with_overflow_click_listener_layout.xml" value="0.3640625" />
+        <entry key="..\:/Projects/MBA/core/src/main/res/layout/call_me_back__call_me_back_fragment.xml" value="0.3307291666666667" />
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/documents__communication_unread_document_dialog_fragment.xml" value="0.1" />
+        <entry key="..\:/Projects/MBA/core/src/main/res/layout/documents__signature_reject_reason_fragment.xml" value="0.3880208333333333" />
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/exchange_rates__exchange_rate_list_item.xml" value="0.3640625" />
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/fingerprint__settings_fragment.xml" value="0.20833333333333334" />
         <entry key="..\:/Projects/MBA/core/src/main/res/layout/keyboard__keyboard_changed_warning_dialog_fragment.xml" value="0.75" />
