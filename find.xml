@@ -14,5 +14,6 @@
     <mask>*.json</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
