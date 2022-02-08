@@ -7,6 +7,7 @@
       <mapping ext="rpkg" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
+      <mapping pattern="icon__logger" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>
