@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.kb.cz/" />
+          <token>df9ddfcfdfc8dfcfdf9bdfcbdf9ddfc9dfcedf9bdf9adf99df9edfcedfcbdf99df9cdf92df9fdfccdf9cdf92dfccdfc8df9cdfc9df9adf9adfcedf9edfcfdfcedfcedf9adfcedfcbdfcfdf92dfcedf9d</token>
+          <option name="name" value="KB Sonar" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
