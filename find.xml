@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Current File" />
-    <option name="defaultScopeName" value="Current File" />
+    <option name="customScope" value="Module 'kb.mba2.mobile.android.v2.TEMP.app-individual'" />
+    <option name="defaultScopeName" value="Module 'kb.mba2.mobile.android.v2.TEMP.app-individual'" />
     <option name="searchOverloadedMethods" value="true" />
     <option name="SEARCH_OVERLOADED_METHODS" value="true" />
-    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="SEARCH_SCOPE" value="Module 'kb.mba2.mobile.android.v2.TEMP.app-individual'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
