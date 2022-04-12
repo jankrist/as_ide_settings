@@ -5,24 +5,24 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="98301FFBA004GA" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-12T12:34:00.304144800Z" />
+        <name value="Google Pixel 4 XL" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="LMG710EMca79e11b" />
           </Key>
         </key>
         <name value="Device" />
         <target value="Android 1.0" />
         <api value="1" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="98301FFBA004GA" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-03-22T12:50:46.260849500Z" />
-        <name value="Google Pixel 4 XL" />
-        <target value="Android 12.0" />
-        <api value="31" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
