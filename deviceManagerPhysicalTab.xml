@@ -5,6 +5,30 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R52MB19J9WL" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-19T11:35:34.219158700Z" />
+        <name value="samsung SM-T510" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="GPNDU19925000178" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-04-19T11:35:34.223162Z" />
+        <name value="HUAWEI GLK-LX1U" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="98301FFBA004GA" />
           </Key>
         </key>
