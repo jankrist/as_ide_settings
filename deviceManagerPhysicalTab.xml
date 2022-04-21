@@ -5,10 +5,20 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="98301FFBA004GA" />
+          </Key>
+        </key>
+        <name value="Google Pixel 4 XL" />
+        <target value="Android API 32" />
+        <api value="32" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="GPNDU19925000178" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-20T06:42:59.645700Z" />
         <name value="HUAWEI GLK-LX1U" />
         <target value="Android 10.0" />
         <api value="29" />
@@ -20,22 +30,9 @@
             <value value="R52MB19J9WL" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-04-19T14:58:30.847763Z" />
         <name value="samsung SM-T510" />
         <target value="Android 11.0" />
         <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="98301FFBA004GA" />
-          </Key>
-        </key>
-        <lastOnlineTime value="2022-04-12T12:34:00.304144800Z" />
-        <name value="Google Pixel 4 XL" />
-        <target value="Android API 32" />
-        <api value="32" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
