@@ -27,6 +27,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="192.168.86.84:5555" />
+          </Key>
+        </key>
+        <type value="WEAR_OS" />
+        <name value="samsung SM-R895F" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="R52MB19J9WL" />
           </Key>
         </key>
@@ -44,18 +56,6 @@
         <name value="Device" />
         <target value="Android 1.0" />
         <api value="1" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="192.168.86.84:5555" />
-          </Key>
-        </key>
-        <type value="WEAR_OS" />
-        <name value="samsung SM-R895F" />
-        <target value="Android 11.0" />
-        <api value="30" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
