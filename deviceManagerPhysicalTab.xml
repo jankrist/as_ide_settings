@@ -57,6 +57,17 @@
         <target value="Android 1.0" />
         <api value="1" />
       </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="RF8NA0QQZYM" />
+          </Key>
+        </key>
+        <name value="samsung SM-G980F" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
     </physicalDevices>
   </component>
 </application>
