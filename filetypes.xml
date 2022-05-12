@@ -2,11 +2,13 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*_Factory.java;*_MembersInjector.java;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <removed_mapping ext="pro" type="DeviceSpecFile" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="rpkg" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="flat" type="PLAIN_TEXT" />
+      <mapping ext="pro" type="Shrinker Config File" />
       <mapping pattern="icon__logger" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
