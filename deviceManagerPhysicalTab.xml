@@ -5,12 +5,23 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="HT69N0200195" />
+          </Key>
+        </key>
+        <name value="Google Pixel XL" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="98301FFBA004GA" />
           </Key>
         </key>
         <name value="Google Pixel 4 XL" />
-        <target value="Android Tiramisu" />
-        <api value="androidversion:32:Tiramisu:null:true" />
+        <target value="Android API 33" />
+        <api value="Tiramisu" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -45,16 +56,6 @@
         <name value="samsung SM-T510" />
         <target value="Android 11.0" />
         <api value="androidversion:30:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="LMG710EMca79e11b" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
