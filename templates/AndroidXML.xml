@@ -1,0 +1,7 @@
+<templateSet group="AndroidXML">
+  <template name="tbmoney" value="            &lt;!-- TOBE: money input view --&gt;&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>

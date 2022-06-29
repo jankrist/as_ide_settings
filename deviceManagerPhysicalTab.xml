@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="HT69N0200195" />
+          </Key>
+        </key>
+        <name value="Google Pixel XL" />
+        <target value="Android 10.0" />
+        <api value="29" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="98301FFBA004GA" />
           </Key>
         </key>
@@ -21,7 +32,7 @@
         </key>
         <name value="HUAWEI GLK-LX1U" />
         <target value="Android 10.0" />
-        <api value="29" />
+        <api value="androidversion:29:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -33,7 +44,7 @@
         <type value="WEAR_OS" />
         <name value="samsung SM-R895F" />
         <target value="Android 11.0" />
-        <api value="30" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -44,18 +55,7 @@
         </key>
         <name value="samsung SM-T510" />
         <target value="Android 11.0" />
-        <api value="30" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="LMG710EMca79e11b" />
-          </Key>
-        </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
-        <api value="1" />
+        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
@@ -66,7 +66,7 @@
         </key>
         <name value="samsung SM-G980F" />
         <target value="Android 12.0" />
-        <api value="31" />
+        <api value="androidversion:31:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
