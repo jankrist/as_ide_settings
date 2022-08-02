@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine app language:" />
         <option value="package:mine language" />
         <option value="package:mine current app locales" />
         <option value="package:mine current" />
