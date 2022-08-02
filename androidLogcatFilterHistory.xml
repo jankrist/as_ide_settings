@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine language" />
+    <option name="mostRecentlyUsed" value="package:mine Set app language" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine Set app language" />
         <option value="package:mine language" />
         <option value="package:mine " />
         <option value="package:mine app language:" />
