@@ -10,6 +10,7 @@
   <component name="CodeVisionSettings">
     <option name="disabledCodeVisionProviderIds">
       <set>
+        <option value="inheritors" />
         <option value="references" />
         <option value="vcs.code.vision" />
       </set>
