@@ -1,13 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine mbf" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine mbf" />
         <option value="package:mine" />
         <option value="package:mine Air bank En" />
         <option value="package:mine taz" />
-        <option value="package:mine " />
         <option value="package:mine cont" />
         <option value="package:cz.kb.mba.skyline.alfa " />
         <option value="Accept-Language" />
