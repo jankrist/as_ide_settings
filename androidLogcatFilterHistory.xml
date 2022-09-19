@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine target market" />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine target market" />
         <option value="package:mine " />
         <option value="package:mine mbf" />
@@ -10,7 +11,6 @@
         <option value="package:mine SHORTCUT" />
         <option value="package:mine shit" />
         <option value="package:mine djiy" />
-        <option value="package:mine" />
         <option value="package:mine Air bank En" />
         <option value="package:mine taz" />
         <option value="package:mine cont" />
