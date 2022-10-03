@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine KOBLIH" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine KOBLIH" />
         <option value="package:mine " />
         <option value="package:mine KOVADLINA" />
         <option value="package:mine" />
@@ -21,7 +23,6 @@
         <option value="package:mine app language:" />
         <option value="package:mine current app locales" />
         <option value="package:mine current" />
-        <option value="package:mine instance" />
       </list>
     </option>
   </component>
