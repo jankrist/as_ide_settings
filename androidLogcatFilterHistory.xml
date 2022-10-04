@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:eu.inmite.prj.kb.mobilbank.alfa " />
         <option value="package:mine " />
+        <option value="package:eu.inmite.prj.kb.mobilbank.alfa " />
         <option value="package:mine KOBLIH" />
         <option value="package:mine KOVADLINA" />
         <option value="package:mine" />
