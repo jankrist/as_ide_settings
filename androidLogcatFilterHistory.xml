@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine SULEK" />
         <option value="package:eu.inmite.prj.kb.mobilbank.alfa " />
         <option value="package:mine KOBLIH" />
         <option value="package:mine KOVADLINA" />
@@ -21,7 +22,6 @@
         <option value="package:mine Set app language" />
         <option value="package:mine language" />
         <option value="package:mine app language:" />
-        <option value="package:mine current app locales" />
       </list>
     </option>
   </component>
