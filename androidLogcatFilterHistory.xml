@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine integrityResultToken" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine integrityResultToken" />
         <option value="package:mine " />
         <option value="package:mine AttestationProcessorImpl" />
         <option value="package:mine integrity" />
@@ -21,7 +23,6 @@
         <option value="package:mine taz" />
         <option value="package:mine cont" />
         <option value="package:cz.kb.mba.skyline.alfa " />
-        <option value="Accept-Language" />
       </list>
     </option>
   </component>
