@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="FLUNDRA" />
     <option name="nonFavorites">
       <list>
+        <option value="FLUNDRA" />
         <option value="package:mine " />
         <option value="package:mine integrityResultToken" />
         <option value="package:mine AttestationProcessorImpl" />
@@ -22,7 +23,6 @@
         <option value="package:mine Air bank En" />
         <option value="package:mine taz" />
         <option value="package:mine cont" />
-        <option value="package:cz.kb.mba.skyline.alfa " />
       </list>
     </option>
   </component>
