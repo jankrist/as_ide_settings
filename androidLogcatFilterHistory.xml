@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="cookie" />
+    <option name="mostRecentlyUsed" value="ScreenFlow" />
     <option name="nonFavorites">
       <list>
+        <option value="ScreenFlow" />
         <option value="cookie" />
         <option value="FLUNDRA" />
         <option value="package:mine " />
@@ -22,7 +23,6 @@
         <option value="package:mine shit" />
         <option value="package:mine djiy" />
         <option value="package:mine Air bank En" />
-        <option value="package:mine taz" />
       </list>
     </option>
   </component>
