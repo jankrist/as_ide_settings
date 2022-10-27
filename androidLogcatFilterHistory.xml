@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="Qr Configuration" />
+    <option name="mostRecentlyUsed" value="package:" />
     <option name="nonFavorites">
       <list>
+        <option value="package:" />
+        <option value="Qr " />
         <option value="Qr Configuration" />
         <option value="FLUNDRA" />
         <option value="package:eu.inmite.prj.kb.mobilbank.beta " />
@@ -21,8 +23,6 @@
         <option value="package:mine KOVADLINA" />
         <option value="package:mine" />
         <option value="package:mine target market" />
-        <option value="package:mine mbf" />
-        <option value="package:mine &amp;amount=" />
       </list>
     </option>
   </component>
