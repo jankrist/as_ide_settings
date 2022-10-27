@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:eu.inmite.prj.kb.mobilbank.alfa Qr Config request done" />
+    <option name="mostRecentlyUsed" value="package:eu.inmite.prj.kb.mobilbank.alfa " />
     <option name="nonFavorites">
       <list>
-        <option value="package:eu.inmite.prj.kb.mobilbank.alfa Qr Config request done" />
         <option value="package:eu.inmite.prj.kb.mobilbank.alfa " />
+        <option value="package:eu.inmite.prj.kb.mobilbank.alfa Qr Config request done" />
         <option value="package:mine " />
         <option value="qrC" />
         <option value="ScreenFlow" />
