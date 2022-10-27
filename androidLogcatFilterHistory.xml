@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:eu.inmite.prj.kb.mobilbank.alfa " />
+    <option name="mostRecentlyUsed" value="package:eu.inmite.prj.kb.mobilbank.alfa Qr Config request done" />
     <option name="nonFavorites">
       <list>
+        <option value="package:eu.inmite.prj.kb.mobilbank.alfa Qr Config request done" />
         <option value="package:eu.inmite.prj.kb.mobilbank.alfa " />
         <option value="package:mine " />
         <option value="qrC" />
@@ -22,7 +23,6 @@
         <option value="package:mine &amp;amount=" />
         <option value="package:mine SHORTCUT" />
         <option value="package:mine shit" />
-        <option value="package:mine djiy" />
       </list>
     </option>
   </component>
