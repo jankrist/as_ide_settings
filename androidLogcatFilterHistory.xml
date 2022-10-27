@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:eu.inmite.prj.kb.mobilbank.alfa " />
     <option name="nonFavorites">
       <list>
+        <option value="package:eu.inmite.prj.kb.mobilbank.alfa " />
         <option value="package:mine " />
         <option value="qrC" />
         <option value="ScreenFlow" />
@@ -13,7 +14,6 @@
         <option value="package:mine integrity" />
         <option value="package:mine =" />
         <option value="package:mine SULEK" />
-        <option value="package:eu.inmite.prj.kb.mobilbank.alfa " />
         <option value="package:mine KOBLIH" />
         <option value="package:mine KOVADLINA" />
         <option value="package:mine" />
