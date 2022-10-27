@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:eu.inmite.prj.kb.mobilbank.beta " />
+    <option name="mostRecentlyUsed" value="FLUNDRA" />
     <option name="nonFavorites">
       <list>
+        <option value="FLUNDRA" />
         <option value="package:eu.inmite.prj.kb.mobilbank.beta " />
         <option value="package:eu.inmite.prj.kb.mobilbank.alfa " />
         <option value="package:eu.inmite.prj.kb.mobilbank.alfa Qr Config request done" />
@@ -10,7 +11,6 @@
         <option value="qrC" />
         <option value="ScreenFlow" />
         <option value="cookie" />
-        <option value="FLUNDRA" />
         <option value="package:mine integrityResultToken" />
         <option value="package:mine AttestationProcessorImpl" />
         <option value="package:mine integrity" />
