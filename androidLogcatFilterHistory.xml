@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:" />
+    <option name="mostRecentlyUsed" value="Qr configuration" />
     <option name="nonFavorites">
       <list>
+        <option value="Qr configuration" />
         <option value="package:" />
         <option value="Qr " />
         <option value="Qr Configuration" />
@@ -22,7 +23,6 @@
         <option value="package:mine KOBLIH" />
         <option value="package:mine KOVADLINA" />
         <option value="package:mine" />
-        <option value="package:mine target market" />
       </list>
     </option>
   </component>
