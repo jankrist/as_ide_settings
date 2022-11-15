@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value=" data content" />
     <option name="nonFavorites">
       <list>
-        <option value=" data content" />
         <option value="package:mine " />
+        <option value=" data content" />
         <option value="package:mine level:error " />
         <option value="Qr configuration" />
         <option value="package:" />
