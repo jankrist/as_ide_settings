@@ -1,10 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine PHONE FORMAT" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine PHONE FORMAT" />
         <option value="package:mine " />
+        <option value="package:mine PHONE FORMAT" />
         <option value="package:mine NOTIFICA" />
         <option value=" data content" />
         <option value="package:mine level:error " />
