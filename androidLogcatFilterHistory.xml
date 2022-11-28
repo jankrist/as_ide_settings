@@ -3,6 +3,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine " />
+        <option value="package:mine &amp;instalationId=62418XC2C4585BB11DC4E54BEF9135" />
         <option value="package:mine SCA" />
         <option value="package:mine PHONE FORMAT" />
         <option value="package:mine NOTIFICA" />
@@ -21,7 +22,6 @@
         <option value="cookie" />
         <option value="package:mine integrityResultToken" />
         <option value="package:mine AttestationProcessorImpl" />
-        <option value="package:mine integrity" />
       </list>
     </option>
   </component>
