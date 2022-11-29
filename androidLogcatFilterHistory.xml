@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine SLUPKA" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine SLUPKA" />
         <option value="package:mine " />
         <option value="package:mine PRDEL" />
         <option value="package:mine &amp;instalationId=62418XC2C4585BB11DC4E54BEF9135" />
@@ -21,7 +23,6 @@
         <option value="qrC" />
         <option value="ScreenFlow" />
         <option value="cookie" />
-        <option value="package:mine integrityResultToken" />
       </list>
     </option>
   </component>
