@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine  tresholdBalance" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  tresholdBalance" />
         <option value="package:mine " />
         <option value="package:mine SLUPKA" />
         <option value="package:mine PRDEL" />
@@ -22,7 +23,6 @@
         <option value="package:eu.inmite.prj.kb.mobilbank.alfa Qr Config request done" />
         <option value="qrC" />
         <option value="ScreenFlow" />
-        <option value="cookie" />
       </list>
     </option>
   </component>
