@@ -1,11 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine allowChange=&quot;false" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine allowChange=&quot;false" />
         <option value="package:mine  SCA" />
-        <option value="package:mine " />
         <option value="package:mine prdel" />
         <option value="secured/paymentcards/" />
         <option value="package:mine  " />
