@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  SCA" />
+    <option name="mostRecentlyUsed" value="package:mine allowChange=&quot;false" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine allowChange=&quot;false" />
         <option value="package:mine  SCA" />
         <option value="package:mine " />
         <option value="package:mine prdel" />
@@ -22,7 +23,6 @@
         <option value="Qr " />
         <option value="Qr Configuration" />
         <option value="FLUNDRA" />
-        <option value="package:eu.inmite.prj.kb.mobilbank.beta " />
       </list>
     </option>
   </component>
