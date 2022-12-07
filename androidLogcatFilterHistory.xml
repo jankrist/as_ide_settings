@@ -1,10 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine AGG_URL_OVERRIDE" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine AGG_URL_OVERRIDE" />
         <option value="package:mine " />
+        <option value="package:mine AGG_URL_OVERRIDE" />
         <option value="package:mine allowChange=&quot;false" />
         <option value="package:mine  SCA" />
         <option value="package:mine prdel" />
