@@ -4,6 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="AGG_URL_OVERRIDE" />
+        <option value="aggregationConnectionRedirection" />
+        <option value="&lt;aggregationConnectionRedirection&gt;" />
         <option value="package:mine " />
         <option value="package:mine AGG_URL_OVERRIDE" />
         <option value="package:mine allowChange=&quot;false" />
@@ -21,8 +23,6 @@
         <option value=" data content" />
         <option value="package:mine level:error " />
         <option value="Qr configuration" />
-        <option value="package:" />
-        <option value="Qr " />
       </list>
     </option>
   </component>
