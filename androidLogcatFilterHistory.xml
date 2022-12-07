@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="AGG_URL_OVERRIDE" />
     <option name="nonFavorites">
       <list>
+        <option value="AGG_URL_OVERRIDE" />
         <option value="package:mine " />
         <option value="package:mine AGG_URL_OVERRIDE" />
         <option value="package:mine allowChange=&quot;false" />
@@ -22,7 +23,6 @@
         <option value="Qr configuration" />
         <option value="package:" />
         <option value="Qr " />
-        <option value="Qr Configuration" />
       </list>
     </option>
   </component>
