@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="qrpoop" />
+    <option name="mostRecentlyUsed" value="package:mine  qrpoop" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  qrpoop" />
+        <option value="package:mine  SCA" />
         <option value="qrpoop" />
         <option value="AGG_URL_OVERRIDE" />
         <option value="aggregationConnectionRedirection" />
@@ -10,7 +12,6 @@
         <option value="package:mine " />
         <option value="package:mine AGG_URL_OVERRIDE" />
         <option value="package:mine allowChange=&quot;false" />
-        <option value="package:mine  SCA" />
         <option value="package:mine prdel" />
         <option value="secured/paymentcards/" />
         <option value="package:mine  " />
@@ -22,7 +23,6 @@
         <option value="package:mine PHONE FORMAT" />
         <option value="package:mine NOTIFICA" />
         <option value=" data content" />
-        <option value="package:mine level:error " />
       </list>
     </option>
   </component>
