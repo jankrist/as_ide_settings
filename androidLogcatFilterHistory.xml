@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="qrpoop" />
     <option name="nonFavorites">
       <list>
+        <option value="qrpoop" />
         <option value="AGG_URL_OVERRIDE" />
         <option value="aggregationConnectionRedirection" />
         <option value="&lt;aggregationConnectionRedirection&gt;" />
@@ -22,7 +23,6 @@
         <option value="package:mine NOTIFICA" />
         <option value=" data content" />
         <option value="package:mine level:error " />
-        <option value="Qr configuration" />
       </list>
     </option>
   </component>
