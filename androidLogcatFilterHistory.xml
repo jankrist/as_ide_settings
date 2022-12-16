@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="" />
+    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine  " />
         <option value="package:mine  qrpoop" />
         <option value="package:mine  SCA" />
         <option value="qrpoop" />
@@ -14,7 +15,6 @@
         <option value="package:mine allowChange=&quot;false" />
         <option value="package:mine prdel" />
         <option value="secured/paymentcards/" />
-        <option value="package:mine  " />
         <option value="package:mine  tresholdBalance" />
         <option value="package:mine SLUPKA" />
         <option value="package:mine PRDEL" />
