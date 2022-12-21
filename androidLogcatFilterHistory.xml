@@ -1,8 +1,8 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine  " />
         <option value="package:mine  qrpoop" />
         <option value="package:mine  SCA" />
@@ -10,7 +10,6 @@
         <option value="AGG_URL_OVERRIDE" />
         <option value="aggregationConnectionRedirection" />
         <option value="&lt;aggregationConnectionRedirection&gt;" />
-        <option value="package:mine " />
         <option value="package:mine AGG_URL_OVERRIDE" />
         <option value="package:mine allowChange=&quot;false" />
         <option value="package:mine prdel" />
